@@ -7,16 +7,17 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using DapperDemo.Data;
 using DapperDemo.Models;
+using DapperDemo.Repository;
 
 namespace DapperDemo.Controllers
 {
     public class CompaniesController : Controller
     {
-        private readonly ApplicationDbContext _context;
+        private readonly ICompanyRepository _compRepo;
 
-        public CompaniesController(ApplicationDbContext context)
+        public CompaniesController(ICompanyRepository compRepo)
         {
-            _context = context;
+            _compRepo = compRepo;
         }
 
         // GET: Companies
