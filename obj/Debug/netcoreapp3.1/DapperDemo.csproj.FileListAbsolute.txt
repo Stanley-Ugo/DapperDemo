@@ -439,11 +439,12 @@ C:\Projects\DapperDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspa
 C:\Projects\DapperDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Projects\DapperDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Projects\DapperDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\DapperDemo.csproj.CoreCompileInputs.cache
-C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\DapperDemo.MvcApplicationPartsAssemblyInfo.cs
-C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\DapperDemo.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Create.cshtml.g.cs
 C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Delete.cshtml.g.cs
 C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Details.cshtml.g.cs
 C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Edit.cshtml.g.cs
 C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Index.cshtml.g.cs
+C:\Projects\DapperDemo\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\DapperDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\DapperDemo\obj\Debug\netcoreapp3.1\DapperDemo.MvcApplicationPartsAssemblyInfo.cache
