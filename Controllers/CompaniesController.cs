@@ -43,7 +43,7 @@ namespace DapperDemo.Controllers
             return View(company);
         }
 
-        // GET: Companies/Create
+        // GET: Companies/Create 
         public IActionResult Create()
         {
             return View();
