@@ -49,7 +49,7 @@ namespace DapperDemo.Controllers
             return View();
         }
 
-        // POST: Companies/Create
+        // POST: Companies/Create 
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -64,7 +64,7 @@ namespace DapperDemo.Controllers
             return View(company);
         }
 
-        // GET: Companies/Edit/5
+        // GET: Companies/Edit/Id
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
