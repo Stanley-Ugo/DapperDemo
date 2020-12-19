@@ -100,7 +100,7 @@ namespace DapperDemo.Controllers
             return View(company);
         }
 
-        // GET: Companies/Delete/5
+        // GET: Companies/Delete/Id
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
