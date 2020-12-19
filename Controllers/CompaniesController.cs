@@ -20,7 +20,7 @@ namespace DapperDemo.Controllers
             _compRepo = compRepo;
         }
 
-        // GET: Companies
+        // GET: Companies-
         public async Task<IActionResult> Index()
         {
             return View(_compRepo.GetAll());

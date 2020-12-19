@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N4BmpFkT8ooJ01FVzw8Jd6QK9xnYMyifBYIuATJ+FKDbbSa5KTK3cFPM1CuiDHmnILe3h1VSgtieFYbqo/WLiA==",
+  "dgSpecHash": "R3W9CDZk5cNclKbqRoO0BA8os1EbXvmkrqMeaTiO3u9DLLVvDlFIE4NVvseJIFadZ0RiHSAy2yK6zwqYg6o0Yg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\DapperDemo\\DapperDemo.csproj",
   "expectedPackageFiles": [
@@ -173,7 +173,9 @@
     "C:\\Users\\iamKosmic\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\iamKosmic\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\iamKosmic\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
