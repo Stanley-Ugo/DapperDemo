@@ -26,7 +26,7 @@ namespace DapperDemo.Controllers
             return View(_compRepo.GetAll());
         }
 
-        // GET: Companies/Details/5
+        // GET: Companies/Details/id
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
