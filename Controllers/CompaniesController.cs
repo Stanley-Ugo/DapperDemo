@@ -80,7 +80,7 @@ namespace DapperDemo.Controllers
             return View(company);
         }
 
-        // POST: Companies/Edit/5
+        // POST: Companies/Edit/Id
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
